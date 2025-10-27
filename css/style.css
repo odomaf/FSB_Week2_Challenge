@@ -66,6 +66,7 @@ content {
   margin-left: 20px;
   height: 100%;
   width: 100%;
+  margin-right: 20px;
   /* flex-wrap: wrap; */
 }
 
@@ -140,7 +141,7 @@ container p {
 
 #project1 p {
   position: absolute;
-  left: 25%;
+  left: 250px;
 }  
 
 
